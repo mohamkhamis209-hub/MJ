@@ -1,6 +1,0 @@
-{
-  "name": "MJ Studio — The MJ Programming Language",
-  "description": "Official IDE, compiler, bytecode VM, and diagnostic environment for the MJ Programming Language. Created by Mohamed Khamis.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
